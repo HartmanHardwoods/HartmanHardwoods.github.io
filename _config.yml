@@ -7,20 +7,19 @@ plugins:
 title: "Hartman's Hardwoods"
 author: Steve Hartman
 
-
 navbar-links:
-  Blog: "/"
-  Projects: "projects"
   About: "aboutme"
-  Support: "https://github.com/sponsors/daattali"
-
-avatar: "/assets/img/deanimg.jpeg"
+  Blog: "/"
+  American Chestnuts: "americanchestnuts"
+  Other Resources:
+    - Projects: "projects"
+    - Basic Gardening: "basicgardening"
+    - Food Preservation: "foodpreservation"
 
 social-network-links:
   email: "hartman@nctc.com"
-  facebook: deanattali
-  calendly: "attalitech/meeting"
-  youtube: "@daattali?sub_confirmation=1"
+  telephone: +12702377325
+  youtube: "@stevehartman3060?sub_confirmation=1"
 
 share-links-active:
   twitter: true
@@ -40,19 +39,15 @@ mobile-theme-col: "#0085A1"
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
 
-edit_page_button: true
+edit_page_button: false
 
 timezone: "America/Chicago"
 permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
 
-disqus: "deanattali-site"
-gtag: "G-HKWW77BNTR"
-fb_app_id: "536330676521989"
-
-url-pretty: "❤ Support"
-url-canonical: https://github.com/sponsors/daattali
+url-pretty: "hartmanhardwoods.github.io"
+url-canonical: https://hartmanhardwoods.github.io
 
 defaults:
   -
@@ -61,25 +56,15 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      carbonads: true
       comments: true
       social-share: true
-      show-share: true
-      show-subscribe: true
-      support_promo_box: true
-      after-content: [share-section.html, scroll-box.html]
   -
     scope:
       path: "notblog"
     values:
       layout: "post"
-      carbonads: true
       comments: true
       social-share: true
-      show-share: true
-      show-subscribe: true
-      support_promo_box: true
-      after-content: [share-section.html, scroll-box.html]
   -
     scope:
       path: "pages"
@@ -91,8 +76,6 @@ defaults:
       path: ""
     values:
       layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
-      footer-extra: footer-subscribe.html
 
 exclude:
   - CHANGELOG.md
@@ -101,7 +84,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - docs/
-  - files/java/Scrabble/*
 
 # 2fc73a3a967e97599c9763d05e564189d5

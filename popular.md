@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
-subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
+title: "Welcome to Hartman's Hardwoods!"
+subtitle: Restoring the apex tree of the Eastern hardwood forest
 css: "/assets/css/index.css"
-share-img: /assets/img/deanimg.jpeg
-share-title: "Dean Attali - R-Shiny consultant | Popular posts"
-share-description: "List of all the most popular posts by Dean Attali."
-support_promo_box: true
+share-title: "Hartman's Hardwoods | Popular posts"
+share-description: "List of all the most popular posts by Hartman's Hardwoods."
 cover-img:
   - "/assets/img/big-imgs/upclosepollen.jpeg" : "Montezuma, Costa Rica (2011)"
 ---
@@ -14,7 +12,6 @@ cover-img:
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
   <a href="/popular" class="list-filter filter-selected">Most Popular</a>
-  <a href="/tutorials" class="list-filter">Tutorials</a>
   <a href="/tags" class="list-filter">Index</a>
 </div>
 
