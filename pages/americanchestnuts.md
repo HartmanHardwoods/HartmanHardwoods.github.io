@@ -83,7 +83,7 @@ These images show various aspects of our interactions with large American Chestn
 </div>
 
 <div class="image123">
-    <img src="/assets/img/americanchestnuts/frog.PNG" alt="Another chestnut-related image" />
+    <img src="/assets/img/americanchestnuts/frog.png" alt="Another chestnut-related image" />
 </div>
 
 ## Chestnut Stipules
@@ -91,8 +91,8 @@ These images show various aspects of our interactions with large American Chestn
 ## Chestnut Leaves
 
 <div class="image123">
-    <img src="/assets/img/americanchestnuts/microscopeamerican.PNG" alt="80-foot American Chestnut" />
-    <img src="/assets/img/americanchestnuts/americanleaf.PNG" alt="4-foot diameter trunk" class="middle-img" />
+    <img src="/assets/img/americanchestnuts/microscopeamerican.png" alt="80-foot American Chestnut" />
+    <img src="/assets/img/americanchestnuts/americanleaf.png" alt="4-foot diameter trunk" class="middle-img" />
 </div>
 
 ## More American Chestnut Images
