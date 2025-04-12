@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Welcome to Hartman's Hardwoods!"
+title: "Welcome to KY American Chestnuts!"
 subtitle: Restoring the apex tree of the Eastern hardwood forest
 css: "/assets/css/index.css"
-share-title: "Hartman's Hardwoods | Popular posts"
-share-description: "List of all the most popular posts by Hartman's Hardwoods."
+share-title: "KY American Chestnuts | Popular posts"
+share-description: "List of all the most popular posts by KY American Chestnuts."
 cover-img:
-  - "/assets/img/big-imgs/upclosepollen.jpeg" : "Montezuma, Costa Rica (2011)"
+  - "/assets/img/big-imgs/upclosepollen.jpeg"
+  - "/assets/img/big-imgs/pollen.jpeg"
 ---
 
 <div class="list-filters">
